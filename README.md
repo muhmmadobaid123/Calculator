@@ -1,2 +1,2 @@
-# blood-donation-system
-The Blood Donation System is a web-based platform built with HTML, CSS, JavaScript (frontend) and Node.js + Express (backend) using SQL database. It manages donor registration, blood requests, and inventory. The system ensures quick donor-recipient matching, secure data handling, and efficient hospital workflows.
+# Calculator
+🧮 A simple Calculator built with HTML, CSS, and JavaScript. Supports basic arithmetic operations like addition, subtraction, multiplication, and division with a clean responsive UI. Includes clear and delete functions, keyboard input support, and real-time calculation display.
